@@ -1,0 +1,10 @@
+[tool.poetry]
+name = 'transitions_example'
+version = '0.0.1'
+description = 'Example for the transitions library'
+authors=["Lukas Woodtli"]
+
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.13"
+transitions = "^0.8.10"
